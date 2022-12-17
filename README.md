@@ -10,3 +10,7 @@ MyHTML.png is to show the HTML code I wrote and the output it creates.
 MyPage.png is a screenshot that shows the HTML code and output it creates about the topic of HTML 5 being used for games.
 
 MyPage.html is the HTML code for the website I wrote that is about the topic of HTML 5 being used for games.
+
+MyPageWithCSS.png is a updated screenshot that shows my HTML code that now includes CSS.
+
+MyPageWithCSS.html is the updated HTML code for the website I wrote that now includes CSS.
